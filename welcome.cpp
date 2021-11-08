@@ -4,8 +4,5 @@
 int main() {
 
     std::cout << "\n Welcome to C++!! \n\n" ;
-    
-
-
 
 }
